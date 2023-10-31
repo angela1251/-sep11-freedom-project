@@ -6,12 +6,7 @@ Project: my First project idea is something that is car realted like, a car driv
 
 ---
 
-X/X/X:
-* Text
-
-X/X/X:
-* Text
-
+### Frist i'm going to brwoser my first tool snapsvg. and once i reseatch my tool.
 
 <!-- 
 * Links you used today (websites, videos, etc)
