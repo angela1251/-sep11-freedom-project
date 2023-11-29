@@ -14,9 +14,9 @@ And for my year long project i will be making car models or car engine. And thor
 
 ## Implications
 ##### PROS
-* 
+* i understand cars.
 ##### CONS
-* 
+* keeping up on my work.
 
 
 ## Blog
