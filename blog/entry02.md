@@ -18,6 +18,7 @@ var s = Snap("#svgout")
 
 var r = s.rect(100,100,100,100,20,20).attr({ stroke: '#123456', 'strokeWidth': 20, fill: 'green'});
 
+the links; https://svg.dabbles.info/
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
