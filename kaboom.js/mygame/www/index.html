@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>mygame</title>
+
+</head>
+<body>
+	<script src="main.js"></script>
+
+</body>
+</html>
+<script type="module">
+import kaboom, { SpriteData, Vec2 } from "kaboom";
+kaboom();
+loadSprite("bean", "sprites/bean.png");
+loadSprite("block", "sprites/download.png");
+loadSprite("potral", "sprites/potral.png");
+
+setGravity(3000);
+
+const SPEED = 1000;
+
+const LEVELS = [
+  [
+    "@    ",
+    "==========",
+
+
+  ]
+
+
+
+]
+
+sence("game", ({levelIdx, score}) => {
+const level = addLevel(LEVElS[levelIdx || 0], {
+ileWidth: 64,
+ileHeight: 64,
+  pos: Vec2(100,200),
+}
+"@": () => [
+  sprite("bean"),
+  area(),
+  body(),
+  "player",
+],
+"=": () =>[
+  Sprite("block"),
+  area(),
+  body({ isStatic: true }),
+  anchor("bot"),
+  ],
+
+
+
+
+
+	</script>
